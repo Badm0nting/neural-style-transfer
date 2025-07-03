@@ -49,7 +49,8 @@ For each content-style image pair:
 
 Output image is stored and can be visualized or saved using `matplotlib` or `PIL`.
 
-Output Example: ![CLICK HERE](download.png)
+Output Example: ![Stylized Output](dataset/download.png)
+
 
 ---
 
