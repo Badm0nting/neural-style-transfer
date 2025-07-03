@@ -49,7 +49,7 @@ For each content-style image pair:
 
 Output image is stored and can be visualized or saved using `matplotlib` or `PIL`.
 
-Output Example: [![Download](dataset/download.png)](dataset/download.png)
+Output Example: [![CLICK HERE](dataset/download.png)](dataset/download.png)
 
 ---
 
