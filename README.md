@@ -49,7 +49,7 @@ For each content-style image pair:
 
 Output image is stored and can be visualized or saved using `matplotlib` or `PIL`.
 
-Output Example: [![Stylized Output](download.png)](download.png)
+Output Example: [![Stylized Output]([download.png](https://github.com/Badm0nting/neural-style-transfer/blob/main/dataset/download.png))](download.png)
 
 ---
 
