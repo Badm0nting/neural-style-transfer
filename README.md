@@ -55,7 +55,9 @@ Output Example: [![CLICK HERE](dataset/download.png)](dataset/download.png)
 
 ## 📚 References
 [TensorFlow Neural Style Transfer Tutorial](https://www.tensorflow.org/tutorials/generative/style_transfer)
+
 [Original NST Paper by Gatys et al. (2015)](https://arxiv.org/abs/1508.06576)
+
 [VGGNet Paper (Simonyan & Zisserman, 2014)](https://arxiv.org/abs/1409.1556)
 
 ---
